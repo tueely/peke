@@ -1,2 +1,2 @@
-# peke
-URL Shortener meant to be used exclusively by Chestnut Residence
+# qr-code-generator
+Simple QR code generator using a domain and PHPMyAdmin.
